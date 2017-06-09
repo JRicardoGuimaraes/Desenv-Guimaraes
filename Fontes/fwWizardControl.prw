@@ -1,6 +1,8 @@
 #INCLUDE "TOTVS.CH"
 #INCLUDE "PROTHEUS.CH"
 
+// teste de github
+
 User Function ExWzCtrl()
     Local oPanel
     Local oNewPag
